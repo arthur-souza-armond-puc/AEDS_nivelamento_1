@@ -1,0 +1,7 @@
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\bin\Debug\AEDS - 2 periodo - Nivelamento.exe.config
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\bin\Debug\AEDS - 2 periodo - Nivelamento.exe
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\bin\Debug\AEDS - 2 periodo - Nivelamento.pdb
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\obj\Debug\AEDS - 2 periodo - Nivelamento.csproj.AssemblyReference.cache
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\obj\Debug\AEDS - 2 periodo - Nivelamento.csproj.CoreCompileInputs.cache
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\obj\Debug\AEDS - 2 periodo - Nivelamento.exe
+C:\Users\asarm\source\repos\AEDS - 2 periodo - Nivelamento\AEDS - 2 periodo - Nivelamento\obj\Debug\AEDS - 2 periodo - Nivelamento.pdb
